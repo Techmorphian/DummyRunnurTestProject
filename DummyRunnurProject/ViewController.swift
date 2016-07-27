@@ -27,6 +27,17 @@ class ViewController: UIViewController
         print("hhiiiiii")
     }
     
+    
+    var label = UILabel()
+    func Actionbuttton()
+    {
+        label.text = "tttttttttttttt"
+        
+        
+    }
+    
+    
+    
     override func viewDidLoad()
     {
         
