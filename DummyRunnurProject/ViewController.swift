@@ -8,9 +8,38 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController
+{
 
-    override func viewDidLoad() {
+   
+    func date()
+    {
+        
+        let date = NSDate()
+        print(date)
+        
+        
+        
+        
+    }
+    
+    func time()
+    {
+        
+        print("hhiiiiii")
+    }
+    
+    
+    override func viewDidLoad()
+    
+    {
+        
+         print("Hello Archana");
+        
+    
+        date();
+        
+        
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
