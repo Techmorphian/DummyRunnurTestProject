@@ -14,17 +14,19 @@ class ViewController: UIViewController
    
     func date()
     {
-        
         let date = NSDate()
         print(date)
-        
-        
     }
     
     func time()
     {
         
         print("hhiiiiii")
+    }
+    
+    func toCheckV2()
+    {
+        print("Archanas code");
     }
     
     override func viewDidLoad()
