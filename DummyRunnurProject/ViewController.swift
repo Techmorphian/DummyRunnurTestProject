@@ -18,7 +18,6 @@ class ViewController: UIViewController
         let date = NSDate()
         print(date)
         
-              
         
     }
     
@@ -28,9 +27,7 @@ class ViewController: UIViewController
         print("hhiiiiii")
     }
     
-    
     override func viewDidLoad()
-    
     {
         
         print("Hello Archana");
@@ -40,6 +37,7 @@ class ViewController: UIViewController
         
         
         super.viewDidLoad()
+         time();
         // Do any additional setup after loading the view, typically from a nib.
     }
 
