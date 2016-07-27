@@ -10,6 +10,11 @@ import UIKit
 
 class ViewController: UIViewController
 {
+    
+    func archana()
+    {
+        print("archana");
+    }
 
     override func viewDidLoad()
     {
