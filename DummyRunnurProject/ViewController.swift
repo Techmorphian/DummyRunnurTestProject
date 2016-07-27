@@ -18,7 +18,6 @@ class ViewController: UIViewController
         let date = NSDate()
         print(date)
         
-              
         
     }
     
@@ -27,7 +26,6 @@ class ViewController: UIViewController
         
         print("hhiiiiii")
     }
-    
     
     override func viewDidLoad()
     
