@@ -10,21 +10,7 @@ import UIKit
 
 class ViewController: UIViewController
 {
-    
-    func hello()
-    {
-        
-        
-        
-    }
-    
-    
-    func date()
-    {
-        
-        
-    }
-    override func viewDidLoad()
+ override func viewDidLoad()
     {
         
     super.viewDidLoad()
