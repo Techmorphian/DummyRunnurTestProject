@@ -11,11 +11,15 @@ import UIKit
 class ViewController: UIViewController
 {
     
+    func archana()
+    {
+        print("archana");
+    }
+
     override func viewDidLoad()
     {
         super.viewDidLoad()
-
-    }
+      }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
