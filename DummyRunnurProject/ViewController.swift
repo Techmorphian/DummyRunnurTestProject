@@ -18,8 +18,7 @@ class ViewController: UIViewController
         let date = NSDate()
         print(date)
         
-        
-        
+              
         
     }
     
