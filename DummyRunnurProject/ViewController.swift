@@ -14,11 +14,8 @@ class ViewController: UIViewController
    
     func date()
     {
-        
         let date = NSDate()
         print(date)
-        
-        
     }
     
     func time()
@@ -48,7 +45,7 @@ class ViewController: UIViewController
         
         
         super.viewDidLoad()
-         time();
+         time(); 
         // Do any additional setup after loading the view, typically from a nib.
     }
 

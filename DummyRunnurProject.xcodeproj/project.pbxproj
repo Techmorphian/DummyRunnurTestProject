@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44EE0A481D48BC1E00CB6CC6 /* tppppppp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44EE0A471D48BC1E00CB6CC6 /* tppppppp.swift */; };
 		47FD4EA01D48B5B40059DB55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FD4E9F1D48B5B40059DB55 /* AppDelegate.swift */; };
 		47FD4EA21D48B5B40059DB55 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FD4EA11D48B5B40059DB55 /* ViewController.swift */; };
 		47FD4EA51D48B5B40059DB55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47FD4EA31D48B5B40059DB55 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44EE0A471D48BC1E00CB6CC6 /* tppppppp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tppppppp.swift; sourceTree = "<group>"; };
 		47FD4E9C1D48B5B40059DB55 /* DummyRunnurProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DummyRunnurProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		47FD4E9F1D48B5B40059DB55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47FD4EA11D48B5B40059DB55 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				47FD4E9F1D48B5B40059DB55 /* AppDelegate.swift */,
 				47FD4EA11D48B5B40059DB55 /* ViewController.swift */,
+				44EE0A471D48BC1E00CB6CC6 /* tppppppp.swift */,
 				47FD4EA31D48B5B40059DB55 /* Main.storyboard */,
 				47FD4EA91D48B5B40059DB55 /* Assets.xcassets */,
 				47FD4EAB1D48B5B40059DB55 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				47FD4EA81D48B5B40059DB55 /* DummyRunnurProject.xcdatamodeld in Sources */,
+				44EE0A481D48BC1E00CB6CC6 /* tppppppp.swift in Sources */,
 				47FD4EA21D48B5B40059DB55 /* ViewController.swift in Sources */,
 				47FD4EA01D48B5B40059DB55 /* AppDelegate.swift in Sources */,
 			);
@@ -292,6 +296,7 @@
 				47FD4EB31D48B5B40059DB55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
