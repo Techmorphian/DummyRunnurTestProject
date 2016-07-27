@@ -30,14 +30,8 @@ class ViewController: UIViewController
     override func viewDidLoad()
     
     {
-        
-         print("Hello Archana");
-        
-    
-        date();
-        
-        
         super.viewDidLoad()
+         time();
         // Do any additional setup after loading the view, typically from a nib.
     }
 
